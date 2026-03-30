@@ -24,7 +24,7 @@ python3 setup.py install
 
 ## 📚 Usage:
 
-### Find information from a username
+### iqraa.nazz
 
 ```
 toutatis -u username -s instagramsessionid
